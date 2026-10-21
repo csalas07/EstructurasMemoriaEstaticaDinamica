@@ -6,3 +6,12 @@ Este repositorio es la recopilación de practicas realizadas en clase, en el cua
 - Búsqueda Lineal.
 - Búsqueda por Saltos.
 - Búsqueda por Listas Enlazadas
+- Ordenamientos Burbuja
+- Insertion Sort
+- Merge Sort
+- QuickSort
+- SelectionSort
+- Pilas y Colas Estaticas
+- Pilas y Colas Dinamicas
+- Grafos de Memoria Estatica
+- Grafos de Memoria Dinamica
